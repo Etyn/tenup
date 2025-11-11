@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(C:\\Users\\u_IE00014561\\perso\\gaiagec-api\\src\\Gaiagec.Api/**)",
+      "Read(C:\\Users\\u_IE00014561\\perso\\gaiagec-api\\src\\Gaiagec.Api\\Features\\Brand\\Repositories/**)",
+      "Read(C:\\Users\\u_IE00014561\\perso\\gaiagec-api\\src\\Gaiagec.Api\\ConfigureServices/**)",
+      "Read(C:\\Users\\u_IE00014561\\perso\\gaiagec-api\\src\\Gaiagec.Api\\Features\\Brand\\Repositories/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
